@@ -1,6 +1,6 @@
 # Quantitative Trading Strategy Notes
 
-This repository documents my independent trading and research work in Indian equity markets between 2020 and 2024. While not a professional role, I approached it with the rigor of a quant researcher—developing strategies, backtesting signals, and analyzing market structure under real-world constraints.
+This repository documents my independent trading and research work in Indian equity markets between 2020 and 2024. While not a professional role, I approached it with the rigor of a quant researcher, developing strategies, backtesting signals, and analyzing market structure under real-world constraints.
 
 📈 **Performance highlight**: Designed and backtested trend-following, event-driven, and statistical arbitrage strategies using Python (Pandas, TA‑Lib); validated on 15 years of historical data, achieving ~14% annualized returns with Sharpe ~1.3 (pre‑costs, walk‑forward tested).
 
@@ -119,9 +119,9 @@ Currently pursuing an MSc in FinTech at Imperial College London, focused on:
 - Applied Quant Macro Strategies
 - Systematic and algorithmic trading
 
-The journey from a retail trader reacting to headlines to someone now building systematic frameworks to test hypotheses and design strategies has been immensely rewarding. I now understand what institutional-level infrastructure and research rigor look like—and how to bridge my retail experience with quant-driven strategy design.
+The journey from a retail trader reacting to headlines to someone now building systematic frameworks to test hypotheses and design strategies has been immensely rewarding. I now understand what institutional-level infrastructure and research rigor look like, and how to bridge my retail experience with quant-driven strategy design.
 
-Closing Thought: While the capital I deployed was limited, the intellectual skin-in-the-game was deep. These years gave me a real appreciation for risk, market structure, behavioral edges, and the importance of macro context—qualities I believe are essential in a quantitative research or trading role.
+Closing Thought: While the capital I deployed was limited, the intellectual skin-in-the-game was deep. These years gave me a real appreciation for risk, market structure, behavioral edges, and the importance of macro context: qualities I believe are essential in a quantitative research or trading role.
 
 
 ---
