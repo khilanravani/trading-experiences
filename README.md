@@ -2,7 +2,7 @@
 
 This repository documents my independent trading and research work in Indian equity markets between 2020 and 2024. While not a professional role, I approached it with the rigor of a quant researcher—developing strategies, backtesting signals, and analyzing market structure under real-world constraints.
 
-📈 **Performance highlight**: Designed and backtested multiple strategies that achieved ~22% annualized returns (2021–2023) with Sharpe ratio >1.5.
+📈 **Performance highlight**: Designed and backtested trend-following, event-driven, and statistical arbitrage strategies using Python (Pandas, TA‑Lib); validated on 15 years of historical data, achieving ~14% annualized returns with Sharpe ~1.3 (pre‑costs, walk‑forward tested).
 
 ---
 
